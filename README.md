@@ -1,9 +1,6 @@
-### Hi there 👋
+### Howdy! 👋 👋 👋
 
-<!--
-**JeffShepherd/JeffShepherd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=JeffShepherd&theme=merko)](https://github.com/JeffShepherd/github-readme-stats)
+[![Jeff's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffShepherd&langs_count=5&theme=merko&layout=compact)]
