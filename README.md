@@ -3,13 +3,13 @@
 
 
 
-🔭 I’m currently working on: Applying new skills to old projects
+🔭 I’m currently working on: QuickCommand group project
 
-🌱 I’m currently learning: React hooks and beginning to explore Python
+🌱 I’m currently learning: Redux and beginning to explore Python
 
 🎓   Education: The Turing School of Software and Design (graduating mid-June 2021)
 
-🔭   What I want to learn next: Python/Django and React Query
+🔭   What I want to learn next: Python/Django and GraphQL
 
 🏢   My background: FinTech consulting and project management
 
