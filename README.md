@@ -3,13 +3,11 @@
 
 
 
-🔭 I’m currently working on: QuickCommand group project
+🔭 Current Role: Onboarding Engineer @ Goldman Sachs
 
-🌱 I’m currently learning: Redux and beginning to explore Python
+🌱 I’m currently learning: Python 
 
 🎓   Education: The Turing School of Software and Design (graduating mid-June 2021)
-
-🔭   What I want to learn next: Python/Django and GraphQL
 
 🏢   My background: FinTech consulting and project management
 
