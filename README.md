@@ -3,11 +3,11 @@
 
 
 
-🔭 Current Role: Onboarding Engineer @ Goldman Sachs
+🔭 Recent experience: Onboarding Engineer @ Goldman Sachs
 
-🌱 I’m currently learning: Python 
+🌱 I’m currently learning: TypeScript 
 
-🎓   Education: The Turing School of Software and Design (graduating mid-June 2021)
+🎓   Education: The Turing School of Software and Design
 
 🏢   My background: FinTech consulting and project management
 
