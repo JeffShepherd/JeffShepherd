@@ -1,22 +1,23 @@
-<h1 align="center">Jeff Shepherd</h1>
-<h2 align="center">Software Engineer currently residing in Denver, CO</h2>
+<h1 align="center">Jeff Shepherd - Software Engineer</h1>
 
 
-
-🔭 Recent experience: Onboarding Engineer @ Goldman Sachs
+<!-- 🔭 Recent experience: Onboarding Engineer @ Goldman Sachs
 
 🌱 I’m currently learning: TypeScript 
 
 🎓   Education: The Turing School of Software and Design
 
-🏢   My background: FinTech consulting and project management
+🏢   My background: FinTech consulting and project management -->
 
 <!--- 💬   Ask me about: -->
+🌱 For more information about me: [LinkedIn](https://www.linkedin.com/in/jefflshepherd/)
 
-📫 How to reach me: Jeff.L.Shepherd@gmail.com or [LinkedIn](https://www.linkedin.com/in/jefflshepherd/)
+📫 How to reach me: Jeff.L.Shepherd@gmail.com
 
 
-<h2>Technologies I Use:</h2>
+
+
+<h2>Some of the Technologies I Use:</h2>
 
 <p align="center">
  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
