@@ -1,15 +1,10 @@
 <h1 align="center">Jeff Shepherd - Software Engineer</h1>
 
 
-<!-- 🔭 Recent experience: Onboarding Engineer @ Goldman Sachs
+I am a FinTech consultant turned Software Engineer using technology to solve business and societal problems. Documented history of technical, and non-technical, solutions, leading to consecutive promotions and awards. Much of my work is housed in other GitHub accounts, or in private repositories, so the public repositories may not be the best/latest examples of my work.
 
-🌱 I’m currently learning: TypeScript 
+**Currently looking for my next challenge, so please reach out via my email below if you think we may be a good fit for each other!**
 
-🎓   Education: The Turing School of Software and Design
-
-🏢   My background: FinTech consulting and project management -->
-
-<!--- 💬   Ask me about: -->
 🌱 For more information about me: [LinkedIn](https://www.linkedin.com/in/jefflshepherd/)
 
 📫 How to reach me: Jeff.L.Shepherd@gmail.com
